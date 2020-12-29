@@ -137,3 +137,18 @@
 [2020-12-29 19:48:36 : INFO] - Successfully processed the queue (smush). 23 tasks were processed out of 23. 
 [2020-12-29 19:48:36 : INFO] - Semaphore (smush, wp_wm2m5qq27d_options) was successfully cleaned up 
 [2020-12-29 19:48:36 : INFO] - Cleaning up tasks of type (smush). A total of 23 tasks will be deleted. 
+[2020-12-29 19:58:19 : INFO] - 
+ 
+[2020-12-29 19:58:19 : INFO] - Header for logs at time:  Tue, 29 Dec 2020 19:58:19 +0000 on http://localhost:80 
+[2020-12-29 19:58:19 : INFO] - WP: 5.6 
+[2020-12-29 19:58:19 : INFO] - PHP: 7.2.10 (apache2handler, Darwin Devins-MacBook-Pro.local 20.2.0 Darwin Kernel Version 20.2.0: Wed Dec  2 20:39:59 PST 2020; root:xnu-7195.60.75~1/RELEASE_X86_64 x86_64) 
+[2020-12-29 19:58:19 : INFO] - MySQL: 5.7.23 
+[2020-12-29 19:58:19 : INFO] - WPLANG: en_US 
+[2020-12-29 19:58:19 : INFO] - Server: Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.10 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 
+[2020-12-29 19:58:19 : INFO] - Outbound connections: N 
+[2020-12-29 19:58:19 : INFO] - safe_mode: 0 
+[2020-12-29 19:58:19 : INFO] - max_execution_time: 30 
+[2020-12-29 19:58:19 : INFO] - memory_limit: 256M (used: 68.1M | 8.5M) 
+[2020-12-29 19:58:19 : INFO] - multisite: N 
+[2020-12-29 19:58:19 : INFO] - openssl: OpenSSL 1.0.2o  27 Mar 2018 
+[2020-12-29 19:58:19 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
