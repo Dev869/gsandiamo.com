@@ -1,0 +1,139 @@
+[2020-12-29 19:48:09 : INFO] - 
+ 
+[2020-12-29 19:48:09 : INFO] - Header for logs at time:  Tue, 29 Dec 2020 19:48:09 +0000 on http://localhost:80 
+[2020-12-29 19:48:09 : INFO] - WP: 5.6 
+[2020-12-29 19:48:09 : INFO] - PHP: 7.2.10 (apache2handler, Darwin Devins-MacBook-Pro.local 20.2.0 Darwin Kernel Version 20.2.0: Wed Dec  2 20:39:59 PST 2020; root:xnu-7195.60.75~1/RELEASE_X86_64 x86_64) 
+[2020-12-29 19:48:09 : INFO] - MySQL: 5.7.23 
+[2020-12-29 19:48:09 : INFO] - WPLANG: en_US 
+[2020-12-29 19:48:09 : INFO] - Server: Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.10 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 
+[2020-12-29 19:48:09 : INFO] - Outbound connections: N 
+[2020-12-29 19:48:09 : INFO] - safe_mode: 0 
+[2020-12-29 19:48:09 : INFO] - max_execution_time: 30 
+[2020-12-29 19:48:09 : INFO] - memory_limit: 256M (used: 69.7M | 16.5M) 
+[2020-12-29 19:48:09 : INFO] - multisite: N 
+[2020-12-29 19:48:09 : INFO] - openssl: OpenSSL 1.0.2o  27 Mar 2018 
+[2020-12-29 19:48:09 : INFO] - A total of 23 tasks of type smush found and will be processed in this iteration 
+[2020-12-29 19:48:09 : INFO] - Set semaphore last lock (smush) time to 2020-12-29 19:48:09 
+[2020-12-29 19:48:09 : INFO] - Semaphore lock (smush) complete 
+[2020-12-29 19:48:09 : INFO] - Processing task with ID : 91, and type 'smush' 
+[2020-12-29 19:48:09 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : November 26, 2020 06:34:41 
+[2020-12-29 19:48:09 : INFO] - 100 
+[2020-12-29 19:48:12 : INFO] - Task with ID 91 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:12 : INFO] - data: {"src":"https:\/\/par2.static.resmush.it\/d5925f1d813409d3694ae97f3f5512df\/_src_Screen-Shot-2020-11-26-at-10.34.31-AM.png","dest":"https:\/\/par2.static.resmush.it\/d5925f1d813409d3694ae97f3f5512df\/Screen-Shot-2020-11-26-at-10.34.31-AM.png","src_size":276949,"dest_size":78839,"percent":72,"output":"json","expires":"Tue, 29 Dec 2020 20:53:10 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:12 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : November 26, 2020 06:34:41 
+[2020-12-29 19:48:12 : INFO] - 100 
+[2020-12-29 19:48:13 : INFO] - Task with ID 91 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:13 : INFO] - data: {"src":"https:\/\/par2.static.resmush.it\/be0e1a0a26acd360b47be3185d8c9c43\/_src_Screen-Shot-2020-11-26-at-10.34.31-AM-300x285.png","dest":"https:\/\/par2.static.resmush.it\/be0e1a0a26acd360b47be3185d8c9c43\/Screen-Shot-2020-11-26-at-10.34.31-AM-300x285.png","src_size":38773,"dest_size":14394,"percent":63,"output":"json","expires":"Tue, 29 Dec 2020 20:53:12 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:13 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : November 26, 2020 06:34:41 
+[2020-12-29 19:48:13 : INFO] - 100 
+[2020-12-29 19:48:15 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : November 26, 2020 06:34:41 
+[2020-12-29 19:48:15 : INFO] - 100 
+[2020-12-29 19:48:16 : INFO] - Task with ID 91 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:16 : INFO] - data: {"src":"https:\/\/par3.static.resmush.it\/715fc262e1bdb93815a68956bc8ee4f1\/_src_Screen-Shot-2020-11-26-at-10.34.31-AM-150x150.png","dest":"https:\/\/par3.static.resmush.it\/715fc262e1bdb93815a68956bc8ee4f1\/Screen-Shot-2020-11-26-at-10.34.31-AM-150x150.png","src_size":16964,"dest_size":6788,"percent":60,"output":"json","expires":"Tue, 29 Dec 2020 20:53:15 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:16 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : November 26, 2020 06:34:41 
+[2020-12-29 19:48:16 : INFO] - 100 
+[2020-12-29 19:48:18 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : November 26, 2020 06:34:41 
+[2020-12-29 19:48:18 : INFO] - 100 
+[2020-12-29 19:48:19 : INFO] - Task with ID 91 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:19 : INFO] - data: {"src":"https:\/\/par3.static.resmush.it\/235328c793e12476f77767280b603ce8\/_src_Screen-Shot-2020-11-26-at-10.34.31-AM-1536x1461.png","dest":"https:\/\/par3.static.resmush.it\/235328c793e12476f77767280b603ce8\/Screen-Shot-2020-11-26-at-10.34.31-AM-1536x1461.png","src_size":260614,"dest_size":95490,"percent":63,"output":"json","expires":"Tue, 29 Dec 2020 20:53:19 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:19 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : November 26, 2020 06:34:41 
+[2020-12-29 19:48:19 : INFO] - 100 
+[2020-12-29 19:48:21 : INFO] - Task with ID 91 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:21 : INFO] - data: {"src":"https:\/\/par2.static.resmush.it\/effa0de3e79599fb6602a87bdbfe7deb\/_src_Screen-Shot-2020-11-26-at-10.34.31-AM-930x620.png","dest":"https:\/\/par2.static.resmush.it\/effa0de3e79599fb6602a87bdbfe7deb\/Screen-Shot-2020-11-26-at-10.34.31-AM-930x620.png","src_size":113963,"dest_size":42438,"percent":63,"output":"json","expires":"Tue, 29 Dec 2020 20:53:20 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:21 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : November 26, 2020 06:34:41 
+[2020-12-29 19:48:21 : INFO] - 100 
+[2020-12-29 19:48:22 : INFO] - Task with ID 91 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:22 : INFO] - data: {"src":"https:\/\/par3.static.resmush.it\/c877eb72470491002e74323021fdf5ee\/_src_Screen-Shot-2020-11-26-at-10.34.31-AM-300x300.png","dest":"https:\/\/par3.static.resmush.it\/c877eb72470491002e74323021fdf5ee\/Screen-Shot-2020-11-26-at-10.34.31-AM-300x300.png","src_size":41171,"dest_size":15294,"percent":63,"output":"json","expires":"Tue, 29 Dec 2020 20:53:22 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:22 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : November 26, 2020 06:34:41 
+[2020-12-29 19:48:22 : INFO] - 100 
+[2020-12-29 19:48:23 : INFO] - Task with ID 91 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:23 : INFO] - data: {"src":"https:\/\/par2.static.resmush.it\/94042b23bdb7f796bc2f13603a9f7748\/_src_Screen-Shot-2020-11-26-at-10.34.31-AM-100x100.png","dest":"https:\/\/par2.static.resmush.it\/94042b23bdb7f796bc2f13603a9f7748\/Screen-Shot-2020-11-26-at-10.34.31-AM-100x100.png","src_size":10247,"dest_size":4405,"percent":57,"output":"json","expires":"Tue, 29 Dec 2020 20:53:22 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:23 : INFO] - Re_Smush_It_Task with attachment ID : 708, autocreated on : November 26, 2020 06:34:41 
+[2020-12-29 19:48:23 : INFO] - 100 
+[2020-12-29 19:48:24 : INFO] - Task with ID 91 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:24 : INFO] - data: {"src":"https:\/\/par3.static.resmush.it\/ad0b31fa8d1b2c9e84de34ba4d26b764\/_src_Screen-Shot-2020-11-26-at-10.34.31-AM-272x182.png","dest":"https:\/\/par3.static.resmush.it\/ad0b31fa8d1b2c9e84de34ba4d26b764\/Screen-Shot-2020-11-26-at-10.34.31-AM-272x182.png","src_size":27274,"dest_size":10398,"percent":62,"output":"json","expires":"Tue, 29 Dec 2020 20:53:23 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:24 : INFO] - Successfully optimized the image - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/Screen-Shot-2020-11-26-at-10.34.31-AM.png.The file was compressed from 270.46 KB to 270.46 KB saving 0 percent using WP-Optimize 
+[2020-12-29 19:48:24 : INFO] - Completed processing task with ID : 91, and type 'smush' 
+[2020-12-29 19:48:24 : INFO] - Processing task with ID : 92, and type 'smush' 
+[2020-12-29 19:48:24 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : November 26, 2020 06:36:46 
+[2020-12-29 19:48:24 : INFO] - 100 
+[2020-12-29 19:48:25 : INFO] - Task with ID 92 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:25 : INFO] - data: {"src":"https:\/\/par2.static.resmush.it\/488be69ee6de5886cb8da55d7e0f9be6\/_src_outride_logo_lightbackground.jpg","dest":"https:\/\/par2.static.resmush.it\/488be69ee6de5886cb8da55d7e0f9be6\/outride_logo_lightbackground.jpg","src_size":91466,"dest_size":86047,"percent":6,"output":"json","expires":"Tue, 29 Dec 2020 20:53:25 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:25 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : November 26, 2020 06:36:46 
+[2020-12-29 19:48:25 : INFO] - 100 
+[2020-12-29 19:48:26 : INFO] - Task with ID 92 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:26 : INFO] - data: {"src":"https:\/\/par3.static.resmush.it\/18f802869f132abf104a7a83b412b56d\/_src_outride_logo_lightbackground-300x194.jpg","dest":"https:\/\/par3.static.resmush.it\/18f802869f132abf104a7a83b412b56d\/outride_logo_lightbackground-300x194.jpg","src_size":9112,"dest_size":9112,"percent":0,"output":"json","expires":"Tue, 29 Dec 2020 20:53:26 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:26 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : November 26, 2020 06:36:46 
+[2020-12-29 19:48:26 : INFO] - 100 
+[2020-12-29 19:48:27 : INFO] - Task with ID 92 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:27 : INFO] - data: {"src":"https:\/\/par3.static.resmush.it\/dc58d504e1c5446d640dfd3bc52fbadc\/_src_outride_logo_lightbackground-1024x663.jpg","dest":"https:\/\/par3.static.resmush.it\/dc58d504e1c5446d640dfd3bc52fbadc\/outride_logo_lightbackground-1024x663.jpg","src_size":26823,"dest_size":25668,"percent":4,"output":"json","expires":"Tue, 29 Dec 2020 20:53:27 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:27 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : November 26, 2020 06:36:46 
+[2020-12-29 19:48:27 : INFO] - 100 
+[2020-12-29 19:48:28 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : November 26, 2020 06:36:46 
+[2020-12-29 19:48:28 : INFO] - 100 
+[2020-12-29 19:48:29 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : November 26, 2020 06:36:46 
+[2020-12-29 19:48:29 : INFO] - 100 
+[2020-12-29 19:48:31 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : November 26, 2020 06:36:46 
+[2020-12-29 19:48:31 : INFO] - 100 
+[2020-12-29 19:48:32 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : November 26, 2020 06:36:46 
+[2020-12-29 19:48:32 : INFO] - 100 
+[2020-12-29 19:48:33 : INFO] - Task with ID 92 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:33 : INFO] - data: {"src":"https:\/\/par2.static.resmush.it\/2e2b5db570cf550c4c3e05c2137dbc16\/_src_outride_logo_lightbackground-930x620.jpg","dest":"https:\/\/par2.static.resmush.it\/2e2b5db570cf550c4c3e05c2137dbc16\/outride_logo_lightbackground-930x620.jpg","src_size":24386,"dest_size":23419,"percent":4,"output":"json","expires":"Tue, 29 Dec 2020 20:53:33 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:33 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : November 26, 2020 06:36:46 
+[2020-12-29 19:48:33 : INFO] - 100 
+[2020-12-29 19:48:34 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : November 26, 2020 06:36:46 
+[2020-12-29 19:48:34 : INFO] - 100 
+[2020-12-29 19:48:35 : INFO] - Task with ID 92 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-12-29 19:48:35 : INFO] - data: {"src":"https:\/\/par3.static.resmush.it\/82df4dab0045df561c381b5b33a3675a\/_src_outride_logo_lightbackground-100x100.jpg","dest":"https:\/\/par3.static.resmush.it\/82df4dab0045df561c381b5b33a3675a\/outride_logo_lightbackground-100x100.jpg","src_size":5969,"dest_size":5969,"percent":0,"output":"json","expires":"Tue, 29 Dec 2020 20:53:35 +0100","generator":"reSmush.it rev.2.0.7.20200829"} 
+[2020-12-29 19:48:35 : INFO] - Re_Smush_It_Task with attachment ID : 710, autocreated on : November 26, 2020 06:36:46 
+[2020-12-29 19:48:35 : INFO] - 100 
+[2020-12-29 19:48:36 : INFO] - Successfully optimized the image - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/outride_logo_lightbackground.jpg.The file was compressed from 89.32 KB to 89.32 KB saving 0 percent using WP-Optimize 
+[2020-12-29 19:48:36 : INFO] - Completed processing task with ID : 92, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Set semaphore last lock (smush) time to 2020-12-29 19:48:36 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 93, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 93 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/Bullying-Brochure.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 94, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 94 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/Hazing-Trifold.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 95, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 95 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/How-to-report-safesport-violations.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 96, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 96 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/MAAPP-Explained.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 97, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 97 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/Minor-Athlete-Abuse-Prevention-Policies-2.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 98, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 98 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/SafeSport-Training-powerpoint.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 99, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 99 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/What-to-report.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 100, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 100 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/1561138365732.7.-compliance_template_massages-and-rubdowns.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 101, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 101 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/1561138394658.4.-compliance_local-travel-guidelines.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 102, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 102 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/1561138434740.2.-compliance_social-media-guidelines.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 103, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 103 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/1561138452443.1.-compliance_team-travel-guidelines.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 104, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 104 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/1561149266448.6.-compliance_locker-rooms-and-changing-areas.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 105, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 105 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/social-media-policy.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 106, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 106 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/USAC-Parental-Consent_Car-travel.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 107, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 107 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/USAC-Parental-Consent-Form_Individual-Training.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 108, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 108 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/USAC-Parental-Consent-Form_Massage.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 109, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 109 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/USAC-Parental-Consent-Form_Out-of-program.docx.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 110, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 110 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/USAC-Parental-Consent-Form_service-provider.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 111, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 111 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/GSA-Code-Conduct-SMW-20201108.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 112, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 112 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/Team-California-Juniors-Pathways-20201108.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Processing task with ID : 113, and type 'smush' 
+[2020-12-29 19:48:36 : INFO] - Task with ID 113 and type (smush) failed with error code invalid_file_type - /Users/devinwilson/Documents/Websites/WP_SITES/CYCLING/gsandiamo.com/gsandiamo.com/local_site/wp-content/uploads/2020/11/MediaGrant.pdf - cannot be optimized, it has an invalid file type 
+[2020-12-29 19:48:36 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-12-29 19:48:36 : INFO] - Semaphore (smush) unlocked 
+[2020-12-29 19:48:36 : INFO] - Successfully processed the queue (smush). 23 tasks were processed out of 23. 
+[2020-12-29 19:48:36 : INFO] - Semaphore (smush, wp_wm2m5qq27d_options) was successfully cleaned up 
+[2020-12-29 19:48:36 : INFO] - Cleaning up tasks of type (smush). A total of 23 tasks will be deleted. 
